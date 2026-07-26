@@ -1,4 +1,4 @@
-# Nicolás Cantarelli
+# Nicolas Cantarelli
 
 Software developer and technical project lead — full-stack web, e-commerce platforms, and native macOS apps. I take digital products from requirements and UX through implementation, integrations, testing, and deployment.
 
