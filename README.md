@@ -2,7 +2,7 @@
 
 Software developer and technical project lead — full-stack web, e-commerce platforms, and native macOS apps. I take digital products from requirements and UX through implementation, integrations, testing, and deployment.
 
-Co-founded and ran [Lumios Digital](https://lumios.digital) (2023–2026), a small studio that shipped 15+ production sites and products for international clients — most of the repos here are that work. **Currently available for freelance or full-time roles**, remote from Argentina.
+Co-founded and ran [Lumios Digital](https://dribbble.com/lumiosdigital) (2023–2026), a small studio that shipped 15+ production sites and products for international clients — most of the repos here are that work. **Currently available for freelance or full-time roles**, remote from Argentina.
 
 [nicocantarelli.com](https://nicocantarelli.com) · [necantarelli@gmail.com](mailto:necantarelli@gmail.com) · [LinkedIn](https://linkedin.com/in/nicolascantarelli)
 
