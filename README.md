@@ -24,7 +24,7 @@ WordPress theme for a private-island resort — nine custom post types, booking-
 WordPress block theme with a Vite pipeline, Customizer-driven content, and a WP-CLI venue importer.
 
 **[tashola](https://github.com/nicocantarelli/tashola)** · [tashola.com](https://tashola.com)
-Fashion-boutique Shopify theme — mega menu, AJAX cart drawer, faceted catalogue. Four years of iteration in the history.
+Fashion-boutique Shopify theme — mega menu, AJAX cart drawer, faceted catalogue. Built and iterated since late 2024.
 
 ## Stack
 
