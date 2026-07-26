@@ -1,13 +1,18 @@
-# Nicolas Cantarelli
+# Nicolás Cantarelli
 
-I design and build e-commerce sites and web products end to end — Shopify themes and checkout apps, WordPress builds, React/Next.js frontends.
+Software developer and technical project lead — full-stack web, e-commerce platforms, and native macOS apps. I take digital products from requirements and UX through implementation, integrations, testing, and deployment.
 
-For the past few years I ran a small studio, Lumios Digital, shipping for clients in retail, hospitality, and SaaS. The repos here are that work. **I'm currently available for freelance or full-time roles** — reach me at [necantarelli@gmail.com](mailto:necantarelli@gmail.com).
+Co-founded and ran [Lumios Digital](https://lumios.digital) (2023–2026), a small studio that shipped 15+ production sites and products for international clients — most of the repos here are that work. **Currently available for freelance or full-time roles**, remote from Argentina.
+
+[nicocantarelli.com](https://nicocantarelli.com) · [necantarelli@gmail.com](mailto:necantarelli@gmail.com) · [LinkedIn](https://linkedin.com/in/nicolascantarelli)
 
 ## Selected work
 
+**[takt](https://github.com/nicocantarelli/takt)** — native macOS app
+Local-first time tracker for freelancers, built with Swift, SwiftUI, and AppKit — no third-party dependencies. Automatic tracking rules via the Accessibility APIs, App Intents / Siri / Shortcuts integration, CSV·JSON·iCal·PDF exports, and a 66-test XCTest suite.
+
 **[baudie-shopify-theme](https://github.com/nicocantarelli/baudie-shopify-theme)** · [baudie.com](https://baudie.com)
-Custom Shopify theme with a three-part upsell system: the theme's side-cart, a [checkout UI extension](https://github.com/nicocantarelli/baudie-checkout-upsell), and a [Shopify Function](https://github.com/nicocantarelli/baudie-discounts) enforcing deal pricing server-side — all sharing one metafield contract.
+Custom Shopify theme with a three-part upsell system: the theme's side-cart, a [checkout UI extension](https://github.com/nicocantarelli/baudie-checkout-upsell) (Preact + Storefront GraphQL), and a [Shopify Function](https://github.com/nicocantarelli/baudie-discounts) enforcing deal pricing server-side — one metafield contract across all three, with automated tests on pricing and eligibility.
 
 **[walkfully](https://github.com/nicocantarelli/walkfully)** · [walkfully.com](https://walkfully.com)
 Shopify OS 2.0 theme built on theme blocks, Section Rendering API partials, and custom web components.
@@ -21,9 +26,8 @@ WordPress block theme with a Vite pipeline, Customizer-driven content, and a WP-
 **[tashola](https://github.com/nicocantarelli/tashola)** · [tashola.com](https://tashola.com)
 Fashion-boutique Shopify theme — mega menu, AJAX cart drawer, faceted catalogue. Four years of iteration in the history.
 
-**[mimos-ai-main](https://github.com/nicocantarelli/mimos-ai-main)** · [trymimos.com](https://trymimos.com)
-Next.js 15 + Supabase landing with Spline 3D and a server-action early-access funnel.
-
 ## Stack
 
-Shopify (Liquid, checkout extensions, Functions) · WordPress (classic + block themes, PHP) · TypeScript · React / Next.js · CSS
+TypeScript · React / Next.js · Node.js (NestJS · PostgreSQL · Prisma) · Swift / SwiftUI / AppKit · Shopify (Liquid · Checkout UI Extensions · Functions) · WordPress / PHP · GraphQL
+
+Agentic development workflow: Claude Code and Codex CLI wired into every repo through project instructions, skills, agents, and hooks.
