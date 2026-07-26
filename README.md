@@ -8,7 +8,7 @@ Co-founded and ran [Lumios Digital](https://dribbble.com/lumiosdigital) (2023–
 
 ## Selected work
 
-**[takt](https://github.com/nicocantarelli/takt)** — native macOS app
+**[timglas](https://github.com/nicocantarelli/timglas)** — native macOS app
 Local-first time tracker for freelancers, built with Swift, SwiftUI, and AppKit — no third-party dependencies. Automatic tracking rules via the Accessibility APIs, App Intents / Siri / Shortcuts integration, CSV·JSON·iCal·PDF exports, and a 66-test XCTest suite.
 
 **[baudie-shopify-theme](https://github.com/nicocantarelli/baudie-shopify-theme)** · [baudie.com](https://baudie.com)
