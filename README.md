@@ -2,13 +2,13 @@
 
 Software developer and technical project lead — full-stack web, e-commerce platforms, and native macOS apps. I take digital products from requirements and UX through implementation, integrations, testing, and deployment.
 
-Co-founded and ran [Lumios Digital](https://dribbble.com/lumiosdigital) (2023–2026), a small studio that shipped 50+ production sites and products for international clients — most of the repos here are that work. **Currently available for freelance or full-time roles**, remote from Argentina.
+Co-founded and ran [Lumios Digital](https://dribbble.com/lumiosdigital) (2023–2026), a small studio that shipped 50+ production sites and products for international clients — most of the repos here are that work. **Currently available for freelance or full-time roles**, remote from San Juan, Argentina.
 
 [nicocantarelli.com](https://nicocantarelli.com) · [necantarelli@gmail.com](mailto:necantarelli@gmail.com) · [LinkedIn](https://linkedin.com/in/nicolascantarelli)
 
 ## Selected work
 
-**[timglas](https://github.com/nicocantarelli/timglas)** — native macOS app
+**[timglas](https://github.com/nicocantarelli/timglas)** · [timglas.app](https://timglas.app) — native macOS app
 Local-first time tracker for freelancers, built with Swift, SwiftUI, and AppKit — no third-party dependencies. Automatic tracking rules via the Accessibility APIs, App Intents / Siri / Shortcuts integration, CSV·JSON·iCal·PDF exports, and a 66-test XCTest suite.
 
 **[baudie-shopify-theme](https://github.com/nicocantarelli/baudie-shopify-theme)** · [baudie.com](https://baudie.com)
