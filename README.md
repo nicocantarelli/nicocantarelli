@@ -9,7 +9,7 @@ Co-founded and ran [Lumios Digital](https://dribbble.com/lumiosdigital) (2023–
 ## Selected work
 
 **[timglas](https://github.com/nicocantarelli/timglas)** · [timglas.app](https://timglas.app) — native macOS app
-Local-first time tracker for freelancers, built with Swift, SwiftUI, and AppKit — no third-party dependencies. Automatic tracking rules via the Accessibility APIs, App Intents / Siri / Shortcuts integration, CSV·JSON·iCal·PDF exports, and a 66-test XCTest suite.
+Local-first time tracker for freelancers, built with Swift, SwiftUI, and AppKit — no third-party dependencies. Automatic tracking rules via the Accessibility APIs, App Intents / Siri / Shortcuts integration, CSV·JSON·iCal·PDF exports, and a 93-test XCTest suite.
 
 **[baudie-shopify-theme](https://github.com/nicocantarelli/baudie-shopify-theme)** · [baudie.com](https://baudie.com)
 Custom Shopify theme with a three-part upsell system: the theme's side-cart, a [checkout UI extension](https://github.com/nicocantarelli/baudie-checkout-upsell) (Preact + Storefront GraphQL), and a [Shopify Function](https://github.com/nicocantarelli/baudie-discounts) enforcing deal pricing server-side — one metafield contract across all three, with automated tests on pricing and eligibility.
