@@ -13,8 +13,8 @@ Co-founded and ran [Lumios Digital](https://dribbble.com/lumiosdigital) (2023–
 **[Concordia: Discount Control](https://github.com/nicocantarelli/concordia-app)** · [useconcordia.com](https://useconcordia.com)
 My own Shopify app for stores that run a lot of discounts: an inventory of every code, automatic and app discount, guardrails that flag conflicts before they reach checkout, bulk changes with undo, and sale campaigns across markets and currencies. Embedded app with Polaris web components, a theme app extension for storefront sale prices, and Cloudflare Workers.
 
-**[Baudie Discounts](https://github.com/nicocantarelli/baudie-discounts)**
-Shopify Function that enforces Baudie's deal pricing server-side, reading the same metafield contract as the theme's cart and the checkout extension.
+**[Baudie Gifts & Deals](https://github.com/nicocantarelli/baudie-discounts)**
+Custom Shopify app with no server. One discount Function runs two deals: upsell products at their deal price whenever the cart holds a regular product, in every currency, and gift-with-purchase spend tiers that block discount codes while a promo runs. A checkout rule blocks payment for a gift that isn't free, and the app's own admin pages manage the gifts and the deal prices. Tests cover every rule.
 
 **[Baudie Checkout Upsell](https://github.com/nicocantarelli/baudie-checkout-upsell)**
 Checkout UI extension in Preact with the Storefront GraphQL API, offering Baudie's upsells inside checkout.
@@ -25,7 +25,7 @@ Native macOS time tracker in Swift, SwiftUI and AppKit.
 ## Websites
 
 **[Baudie](https://github.com/nicocantarelli/baudie-shopify-theme)** · [baudie.com](https://baudie.com)
-Custom Shopify theme with a side-cart upsell system that shares one metafield contract with Baudie Discounts and Baudie Checkout Upsell, with automated tests on pricing and eligibility.
+Custom Shopify theme whose cart drawer runs the upsells and adds the free gifts, sharing one metafield contract with Baudie Gifts & Deals and Baudie Checkout Upsell.
 
 **[Walkfully](https://github.com/nicocantarelli/walkfully)** · [walkfully.com](https://walkfully.com)
 Shopify OS 2.0 theme built on theme blocks, Section Rendering API partials, and custom web components.
