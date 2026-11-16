@@ -1,10 +1,10 @@
 # Nicolas Cantarelli
 
-Software developer and technical project lead — full-stack web, e-commerce platforms, and native macOS apps. I take digital products from requirements and UX through implementation, integrations, testing, and deployment.
+Software developer and technical project lead: full-stack web, e-commerce platforms, and native macOS apps. I take digital products from requirements and UX through implementation, integrations, testing, and deployment.
 
 Currently a Shopify developer at [Inflection Growth](https://inflection-growth.com), a growth team for Shopify and Shopify Plus brands including Gopuff, AeroPress, Dyper, Kappa, Singer and Viking.
 
-Co-founded and ran [Lumios Digital](https://dribbble.com/lumiosdigital) (2023–2026), a small studio that shipped 50+ production sites and products for international clients — most of the repos here are that work. Remote from San Juan, Argentina.
+Co-founded and ran [Lumios Digital](https://dribbble.com/lumiosdigital) (2023–2026), a small studio that shipped 50+ production sites and products for international clients. Most of the repos here are that work. Remote from San Juan, Argentina.
 
 [nicocantarelli.com](https://nicocantarelli.com) · [necantarelli@gmail.com](mailto:necantarelli@gmail.com) · [LinkedIn](https://linkedin.com/in/nicolascantarelli)
 
