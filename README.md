@@ -13,22 +13,22 @@ Co-founded and ran [Lumios Digital](https://dribbble.com/lumiosdigital) (2023–
 **[Concordia: Discount Control](https://github.com/nicocantarelli/concordia-app)** · [useconcordia.com](https://useconcordia.com)
 My own Shopify app for stores that run a lot of discounts: an inventory of every code, automatic and app discount, guardrails that flag conflicts before they reach checkout, bulk changes with undo, and sale campaigns across markets and currencies. Embedded app with Polaris web components, a theme app extension for storefront sale prices, and Cloudflare Workers.
 
-**[baudie-shopify-theme](https://github.com/nicocantarelli/baudie-shopify-theme)** · [baudie.com](https://baudie.com)
+**[Baudie](https://github.com/nicocantarelli/baudie-shopify-theme)** · [baudie.com](https://baudie.com)
 Custom Shopify theme with a three-part upsell system: the theme's side-cart, a [checkout UI extension](https://github.com/nicocantarelli/baudie-checkout-upsell) (Preact + Storefront GraphQL), and a [Shopify Function](https://github.com/nicocantarelli/baudie-discounts) enforcing deal pricing server-side — one metafield contract across all three, with automated tests on pricing and eligibility.
 
-**[walkfully](https://github.com/nicocantarelli/walkfully)** · [walkfully.com](https://walkfully.com)
+**[Walkfully](https://github.com/nicocantarelli/walkfully)** · [walkfully.com](https://walkfully.com)
 Shopify OS 2.0 theme built on theme blocks, Section Rendering API partials, and custom web components.
 
-**[nirup-island](https://github.com/nicocantarelli/nirup-island)** · [nirupisland.com](https://nirupisland.com)
+**[Nirup Island](https://github.com/nicocantarelli/nirup-island)** · [nirupisland.com](https://nirupisland.com)
 WordPress theme for a private-island resort — nine custom post types, booking-engine integration, bilingual EN/ID.
 
-**[harbourbaydowntown](https://github.com/nicocantarelli/harbourbaydowntown)** · [harbourbaydowntown.com](https://harbourbaydowntown.com)
+**[Harbour Bay Downtown](https://github.com/nicocantarelli/harbourbaydowntown)** · [harbourbaydowntown.com](https://harbourbaydowntown.com)
 WordPress block theme with a Vite pipeline, Customizer-driven content, and a WP-CLI venue importer.
 
-**[tashola](https://github.com/nicocantarelli/tashola)** · [tashola.com](https://tashola.com)
+**[Tashola](https://github.com/nicocantarelli/tashola)** · [tashola.com](https://tashola.com)
 Fashion-boutique Shopify theme — mega menu, AJAX cart drawer, faceted catalogue. Built and iterated since late 2024.
 
-**timglas** · [timglas.app](https://timglas.app)
+**Timglas** · [timglas.app](https://timglas.app)
 Native macOS time tracker in Swift, SwiftUI and AppKit.
 
 ## Stack
