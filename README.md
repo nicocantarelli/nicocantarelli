@@ -10,6 +10,9 @@ Co-founded and ran [Lumios Digital](https://dribbble.com/lumiosdigital) (2023–
 
 ## Selected work
 
+**[Concordia: Discount Control](https://github.com/nicocantarelli/concordia-app)** · [useconcordia.com](https://useconcordia.com)
+My own Shopify app for stores that run a lot of discounts: an inventory of every code, automatic and app discount, guardrails that flag conflicts before they reach checkout, bulk changes with undo, and sale campaigns across markets and currencies. Embedded app with Polaris web components, a theme app extension for storefront sale prices, and Cloudflare Workers.
+
 **[baudie-shopify-theme](https://github.com/nicocantarelli/baudie-shopify-theme)** · [baudie.com](https://baudie.com)
 Custom Shopify theme with a three-part upsell system: the theme's side-cart, a [checkout UI extension](https://github.com/nicocantarelli/baudie-checkout-upsell) (Preact + Storefront GraphQL), and a [Shopify Function](https://github.com/nicocantarelli/baudie-discounts) enforcing deal pricing server-side — one metafield contract across all three, with automated tests on pricing and eligibility.
 
